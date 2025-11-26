@@ -1,5 +1,12 @@
 # AWS S3 Auto-Remediation Bot (LocalStack)
 
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-Cloud%20Emulator-blueviolet?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-ChatOps-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Security](https://img.shields.io/badge/Security-SOAR-red?style=for-the-badge&logo=security)
+
 ## Project Overview
 This project is a **Security Orchestration & Automation (SOAR)** tool designed to detect and remediate cloud security misconfigurations in real-time.
 
